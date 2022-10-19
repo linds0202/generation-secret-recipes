@@ -1,13 +1,13 @@
 {
-  "name": "binary-upload-boom",
+  "name": "gerational-secret-recipes",
   "version": "1.0.0",
-  "description": "100Devs Social Network",
+  "description": "A place to keep all your family's best kept recipe secrets to share",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Lindsay Rainey",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.1",
